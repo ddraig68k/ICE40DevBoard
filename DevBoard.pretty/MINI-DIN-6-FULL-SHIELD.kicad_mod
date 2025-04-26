@@ -1,0 +1,218 @@
+(footprint "MINI-DIN-6-FULL-SHIELD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J1"
+		(at -8.255 13.97 0)
+		(layer "F.SilkS")
+		(uuid "e764abd6-ce80-4739-85bf-25449697d8ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PS2-MINIDIN6-FEMALE"
+		(at 0.15 1.325 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b5f3f7a-5ee1-4b92-a325-2765eb7dd02b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83eddb23-f394-4a6a-a995-2aa1ce75ab30")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c06f815-aa6f-4de0-92f4-44d0a72dce88")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -8.8 2.5)
+		(end 8.8 2.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bb6a383a-322d-4496-9991-6c5d3e514bb4")
+	)
+	(fp_line
+		(start -8.8 13)
+		(end -8.8 2.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "205648a7-a627-40c5-ae29-c7fa65331b28")
+	)
+	(fp_line
+		(start 8.8 2.5)
+		(end 8.8 13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b55f50c4-c7f8-420e-bcd0-4d2633da2705")
+	)
+	(fp_line
+		(start 8.8 13)
+		(end -8.8 13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a910a3db-c5d2-4aec-8d8c-edb0f189133e")
+	)
+	(fp_line
+		(start -9 0)
+		(end 9.25 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "866925ce-714f-4a13-ac83-fdb0bd8fa4b6")
+	)
+	(fp_line
+		(start -9 13.2)
+		(end -9 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "870e92a8-e640-4eda-8331-fcf28873d625")
+	)
+	(fp_line
+		(start 9.25 0)
+		(end 9.25 13.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "45369e25-f939-4de9-91f4-8b21e8542e90")
+	)
+	(fp_line
+		(start 9.25 13.2)
+		(end -9 13.2)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "86d176d9-627d-4e1a-8468-7ab4a38cae9a")
+	)
+	(pad "1" thru_hole circle
+		(at -1.3 8.5)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "60c75422-9b46-4443-b48e-bc577b304126")
+	)
+	(pad "2" thru_hole circle
+		(at 1.3 8.5)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "06cf90e8-fb4d-4e1e-9995-7aa17d88cfd5")
+	)
+	(pad "3" thru_hole circle
+		(at -3.4 8.5)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7d00fc1c-92a7-462c-a26c-6a3c142fb533")
+	)
+	(pad "4" thru_hole circle
+		(at 3.4 8.5)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "542b4001-e8a3-43f8-8020-12694d4a9804")
+	)
+	(pad "5" thru_hole circle
+		(at -3.4 11)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e9a76468-aa8c-4fde-a186-76d8d0df95fa")
+	)
+	(pad "6" thru_hole circle
+		(at 3.4 11)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "143e4092-b59e-43dd-8e61-f14a6e1a47c0")
+	)
+	(pad "7" thru_hole circle
+		(at -6.75 5.5)
+		(size 3.3 3.3)
+		(drill 2.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d153d969-7e21-4149-9bee-0a29a5e61f07")
+	)
+	(pad "7" thru_hole circle
+		(at 0 4.7)
+		(size 3.3 3.3)
+		(drill 2.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "48e39944-c44f-4859-9340-44468564cfc0")
+	)
+	(pad "7" thru_hole circle
+		(at 6.75 5.5)
+		(size 3.3 3.3)
+		(drill 2.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "140261e8-65fc-4de7-9be8-7855f3a4d042")
+	)
+	(embedded_fonts no)
+	(model "${DDRAIGLIB}/CAD/Connectors/MiniDin_6way.stp"
+		(offset
+			(xyz 0 0 6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)

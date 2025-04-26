@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DevBoard")(type "KiCad")(uri "${KIPRJMOD}/DevBoard.pretty")(options "")(descr "FPGA Dev board footprints"))
+)
