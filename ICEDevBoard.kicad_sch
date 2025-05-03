@@ -10587,26 +10587,6 @@
 				(justify left top)
 			)
 		)
-		(pin "D+" bidirectional
-			(at 156.21 60.96 180)
-			(uuid "b2693402-9776-4631-adc0-9e47c96ef40f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "D-" bidirectional
-			(at 156.21 58.42 180)
-			(uuid "e7b8efd6-c8c3-499f-bcb5-5fb9a9f6f5a8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "FLASH_MISO" input
 			(at 177.8 53.34 0)
 			(uuid "30510d85-372c-4e61-981d-d19e73fddd87")
@@ -10665,6 +10645,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "D+" bidirectional
+			(at 156.21 60.96 180)
+			(uuid "39282a6a-115c-49a1-88b1-b2a2a673c3b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D-" bidirectional
+			(at 156.21 58.42 180)
+			(uuid "c7be69b3-3e7a-4bd5-987b-aa3f3f7054af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
