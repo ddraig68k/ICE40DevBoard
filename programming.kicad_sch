@@ -7156,7 +7156,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "22R"
 			(at 112.014 68.326 90)
 			(effects
 				(font
@@ -7504,7 +7504,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 271.78 92.71 0)
 			(effects
 				(font
@@ -7723,7 +7723,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 260.35 92.71 0)
 			(effects
 				(font
@@ -9071,7 +9071,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "22R"
 			(at 112.014 61.214 90)
 			(effects
 				(font
