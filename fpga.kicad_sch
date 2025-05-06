@@ -7358,7 +7358,7 @@
 		(uuid "49f89ab5-8c09-4fd6-9a75-db2258619f92")
 	)
 	(label "MEM_A11"
-		(at 39.37 91.44 180)
+		(at 39.37 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7468,7 +7468,7 @@
 		(uuid "6a582c55-beac-41f1-8fb0-3633197c0cf5")
 	)
 	(label "MEM_A10"
-		(at 39.37 96.52 180)
+		(at 39.37 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
