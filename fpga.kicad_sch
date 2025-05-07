@@ -4499,7 +4499,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 68.58) (xy 104.14 68.58)
+			(xy 88.9 68.58) (xy 104.14 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4849,7 +4849,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 86.36) (xy 104.14 86.36)
+			(xy 88.9 86.36) (xy 104.14 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4879,7 +4879,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 78.74) (xy 104.14 78.74)
+			(xy 88.9 78.74) (xy 104.14 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4909,7 +4909,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 71.12) (xy 104.14 71.12)
+			(xy 88.9 71.12) (xy 104.14 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5139,7 +5139,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 66.04) (xy 104.14 66.04)
+			(xy 88.9 66.04) (xy 104.14 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5409,7 +5409,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 58.42) (xy 171.45 58.42)
+			(xy 156.21 58.42) (xy 171.45 58.42)
 		)
 		(stroke
 			(width 0)
@@ -5499,7 +5499,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 60.96) (xy 171.45 60.96)
+			(xy 156.21 60.96) (xy 171.45 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5599,7 +5599,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 81.28) (xy 104.14 81.28)
+			(xy 88.9 81.28) (xy 104.14 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5749,7 +5749,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 68.58) (xy 171.45 68.58)
+			(xy 157.48 68.58) (xy 171.45 68.58)
 		)
 		(stroke
 			(width 0)
@@ -5849,7 +5849,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 73.66) (xy 104.14 73.66)
+			(xy 88.9 73.66) (xy 104.14 73.66)
 		)
 		(stroke
 			(width 0)
@@ -5999,7 +5999,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 63.5) (xy 171.45 63.5)
+			(xy 157.48 63.5) (xy 171.45 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6109,7 +6109,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 83.82) (xy 104.14 83.82)
+			(xy 88.9 83.82) (xy 104.14 83.82)
 		)
 		(stroke
 			(width 0)
@@ -6269,7 +6269,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 48.26) (xy 171.45 48.26)
+			(xy 156.21 48.26) (xy 171.45 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6409,7 +6409,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 50.8) (xy 171.45 50.8)
+			(xy 156.21 50.8) (xy 171.45 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6469,7 +6469,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 63.5) (xy 104.14 63.5)
+			(xy 88.9 63.5) (xy 104.14 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6559,7 +6559,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 66.04) (xy 171.45 66.04)
+			(xy 157.48 66.04) (xy 171.45 66.04)
 		)
 		(stroke
 			(width 0)
@@ -6619,7 +6619,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 53.34) (xy 171.45 53.34)
+			(xy 156.21 53.34) (xy 171.45 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6849,7 +6849,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 55.88) (xy 171.45 55.88)
+			(xy 156.21 55.88) (xy 171.45 55.88)
 		)
 		(stroke
 			(width 0)
@@ -6889,7 +6889,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 88.9) (xy 104.14 88.9)
+			(xy 88.9 88.9) (xy 104.14 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7149,7 +7149,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 91.44) (xy 104.14 91.44)
+			(xy 88.9 91.44) (xy 104.14 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7298,7 +7298,7 @@
 		(uuid "2ab69882-3854-4882-a7cc-722b67f678f2")
 	)
 	(label "JOY_D2"
-		(at 40.64 58.42 180)
+		(at 40.64 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7418,7 +7418,7 @@
 		(uuid "546362ec-5f88-4643-8ae0-23e236468c0e")
 	)
 	(label "JOY_D5"
-		(at 40.64 63.5 180)
+		(at 40.64 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7528,7 +7528,7 @@
 		(uuid "73c100e0-3eec-482a-b3d9-d01289bd1264")
 	)
 	(label "JOY_D1"
-		(at 40.64 66.04 180)
+		(at 40.64 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7849,7 +7849,7 @@
 	)
 	(hierarchical_label "LED1"
 		(shape output)
-		(at 165.1 55.88 180)
+		(at 156.21 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7860,7 +7860,7 @@
 	)
 	(hierarchical_label "VGA_CLOCK"
 		(shape output)
-		(at 97.79 68.58 180)
+		(at 88.9 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7871,7 +7871,7 @@
 	)
 	(hierarchical_label "SD_CLOCK"
 		(shape output)
-		(at 97.79 88.9 180)
+		(at 88.9 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7893,7 +7893,7 @@
 	)
 	(hierarchical_label "SD_MOSI"
 		(shape output)
-		(at 97.79 91.44 180)
+		(at 88.9 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7904,7 +7904,7 @@
 	)
 	(hierarchical_label "~{VGA_BLANK}"
 		(shape output)
-		(at 97.79 81.28 180)
+		(at 88.9 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7937,7 +7937,7 @@
 	)
 	(hierarchical_label "VGA_HSYNC"
 		(shape output)
-		(at 97.79 63.5 180)
+		(at 88.9 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7992,7 +7992,7 @@
 	)
 	(hierarchical_label "SND_DIN"
 		(shape output)
-		(at 97.79 73.66 180)
+		(at 88.9 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8003,7 +8003,7 @@
 	)
 	(hierarchical_label "MOUSE_CLK"
 		(shape output)
-		(at 33.02 45.72 180)
+		(at 33.02 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8014,7 +8014,7 @@
 	)
 	(hierarchical_label "BUTTON1"
 		(shape input)
-		(at 166.37 63.5 180)
+		(at 157.48 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8025,7 +8025,7 @@
 	)
 	(hierarchical_label "LED2"
 		(shape output)
-		(at 165.1 58.42 180)
+		(at 156.21 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8047,7 +8047,7 @@
 	)
 	(hierarchical_label "SND_LRCK"
 		(shape output)
-		(at 97.79 71.12 180)
+		(at 88.9 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8058,7 +8058,7 @@
 	)
 	(hierarchical_label "SEG_DATA"
 		(shape output)
-		(at 165.1 48.26 180)
+		(at 156.21 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8124,7 +8124,7 @@
 	)
 	(hierarchical_label "SEG_LOAD"
 		(shape output)
-		(at 165.1 53.34 180)
+		(at 156.21 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8135,7 +8135,7 @@
 	)
 	(hierarchical_label "BUTTON3"
 		(shape input)
-		(at 166.37 68.58 180)
+		(at 157.48 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8168,7 +8168,7 @@
 	)
 	(hierarchical_label "LED3"
 		(shape output)
-		(at 165.1 60.96 180)
+		(at 156.21 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8179,7 +8179,7 @@
 	)
 	(hierarchical_label "SD_MISO"
 		(shape input)
-		(at 97.79 86.36 180)
+		(at 88.9 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8190,7 +8190,7 @@
 	)
 	(hierarchical_label "SEG_CLK"
 		(shape output)
-		(at 165.1 50.8 180)
+		(at 156.21 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8223,7 +8223,7 @@
 	)
 	(hierarchical_label "MOUSE_DATA"
 		(shape bidirectional)
-		(at 33.02 43.18 180)
+		(at 33.02 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8234,7 +8234,7 @@
 	)
 	(hierarchical_label "SD_DETECT"
 		(shape input)
-		(at 97.79 78.74 180)
+		(at 88.9 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8245,7 +8245,7 @@
 	)
 	(hierarchical_label "BUTTON2"
 		(shape input)
-		(at 166.37 66.04 180)
+		(at 157.48 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8256,7 +8256,7 @@
 	)
 	(hierarchical_label "SND_BCK"
 		(shape output)
-		(at 97.79 83.82 180)
+		(at 88.9 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8278,7 +8278,7 @@
 	)
 	(hierarchical_label "VGA_VSYNC"
 		(shape output)
-		(at 97.79 66.04 180)
+		(at 88.9 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
