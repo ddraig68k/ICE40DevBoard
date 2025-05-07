@@ -7178,7 +7178,7 @@
 		(uuid "ff092194-77b8-40d4-831c-cc17b4e4dd2b")
 	)
 	(label "VGA_G5"
-		(at 166.37 78.74 180)
+		(at 166.37 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7218,7 +7218,7 @@
 		(uuid "07036de5-7be0-42ec-9440-8d0cfd99dbcb")
 	)
 	(label "VGA_G4"
-		(at 166.37 83.82 180)
+		(at 166.37 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7338,7 +7338,7 @@
 		(uuid "3cc295a8-2f77-460d-a58d-8720127aff05")
 	)
 	(label "VGA_G0"
-		(at 166.37 76.2 180)
+		(at 166.37 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7448,7 +7448,7 @@
 		(uuid "65b7fc5b-d312-4258-9fe6-80c2b07db2e7")
 	)
 	(label "VGA_G2"
-		(at 166.37 81.28 180)
+		(at 166.37 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7688,7 +7688,7 @@
 		(uuid "c7abe541-1114-46b0-b465-ac1b54892088")
 	)
 	(label "VGA_G3"
-		(at 166.37 73.66 180)
+		(at 166.37 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7788,7 +7788,7 @@
 		(uuid "ed7a26b3-92c8-463e-879e-845cfa174e38")
 	)
 	(label "VGA_G1"
-		(at 166.37 71.12 180)
+		(at 166.37 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
